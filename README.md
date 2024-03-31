@@ -1,5 +1,7 @@
 # Semana_Santa
 
+El proyecto consiste en una página web diseñada para informar a los visitantes sobre la Semana Santa en Fuerteventura/Canarias/España, proporcionando detalles sobre eventos, tradiciones y actividades, así como enlaces útiles y opciones de contacto para obtener más información.
+
 Para empezar se ha creado la pagina home con el siguiente contenido:
 
 -Un Header con un fondo de la iglesia de Puerto del rosario. También tiene un título y un subtítulo en referencia a la semana santa en Fuerteventura.
