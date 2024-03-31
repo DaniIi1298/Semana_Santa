@@ -49,3 +49,15 @@
     text-align: center;
     padding-top: 25px;
 }
+
+.Clase1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@include media-breakpoint-up(sm) {
+    .Clase1 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
