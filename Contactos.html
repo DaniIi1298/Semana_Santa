@@ -29,13 +29,13 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
+                            <a class="nav-link" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="Eventos.html">Eventos</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="galeria.html">Galería</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#Lo que se haga">Contactos.</a>
                         </li>
                     </ul>
                 </div>
@@ -43,8 +43,46 @@
         </nav>
 
 
+        <!--Main-->
+        <main>
+            <div class="container mt-2">
+                <section id="presentacion">
+                    <form>
+                        <label for="fname">Nombre</label>
+                        <input type="text" id="fname" name="fname" >
+                        <label for="lname">Apellido</label>
+                        <input type="text" id="lname" name="lname" >
+                    </form>
+
+                    <form class="mb-3">
+                        <label for="SS">Dia favorito</label>
+                        <select id=" Semana santa" name=" Semana santa">
+                        <option value="Dr">Domigo de Ramos</option>
+                        <option value="Lu">Lunes Santo</option>
+                        <option value="Ma">Martes Santo</option>
+                        <option value="Mi">Miercoles Santo</option>
+                        <option value="Ju">Jueves Santo</option>
+                        <option value="Vi">Viernes Santo</option>
+                        <option value="Sa">Sabado Santo</option>
+                        <option value="Dp">Domindo de Pascua</option>
+                        </select>
+                    </form>
+
+                    <form class="mb-3">
+                        <textarea placeholder="Comenta el porque tu elección..."></textarea>
+                    </form>
+                <div class="d-flex justify-content-center mb-4">
+                    <video width="530" height="280" controls>
+                        <source src="img/agua bendita.mp4" type="video/mp4">
+                        <source src="img/agua bendita.ogg" type="video/ogg">
+                    </video>
+                </div>
+                </section>
+            </div>
+        </main>
+
 <!--Un footer sin mas misterio, solo hace la funcion de existir con enlaces ademas de numero y correo al cual contactar.-->
-    <footer class="footer mt-auto py-3 bg-danger">
+    <footer class="footer mt-auto py-3 bg-secondary">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
