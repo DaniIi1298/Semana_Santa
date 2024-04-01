@@ -9,5 +9,10 @@ Para empezar se ha creado la pagina home con el siguiente contenido:
 -Un Main para añadir contenido a la pagina (en la pagina principal habrá un texto a modo introducción).
 -Un Footer con información adicional (Contactos y links).
 
+Tambien constará de cuatro paginas diferentes divididas en:
 
-Hace falta terminar la página de galeria y de eventos.
+-Home realizada por Daniel, la cual cuenta con una introducción de como se celebra la Semana santa en Fuerteventura. 
+-Eventos realizada por Yeray, la cual contiene informacion visual y descriptiva sobre lo que se realiza en los diferentes dias de la semana santa.
+-Galeria realizada por Arthur, la cual muestra las iglesias más impresionantes de fuerteventura.
+-Contactos realizada por Kevin, la cual cuenta con un cuestionario y un pequeño video muy educativo. 
+
